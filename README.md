@@ -4,6 +4,8 @@ Description : The Bank app is a console-based application that simulates banking
 
 User Stories
 
+* Point 1
++ Point 2
 
 -As a user, I can login.
 -As a customer, I can apply for a new bank account with a starting balance.
